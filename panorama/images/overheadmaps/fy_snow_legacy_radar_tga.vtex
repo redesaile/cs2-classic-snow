@@ -20,8 +20,6 @@
             ]
         }
     ]
-    "m_nOutputMinDimension" "int" "0"     
-    "m_nOutputMaxDimension" "int" "0" 
     "m_outputTypeString" "string" "2D"
     "m_outputFormat" "string" "BGRA8888"
     "m_outputClearColor" "vector4" "0 0 0 0"
